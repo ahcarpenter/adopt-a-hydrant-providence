@@ -20,4 +20,4 @@ ActionMailer::Base.smtp_settings = {
   :user_name      => 'adoptahydrantprovidence@gmail.com',
   :password       => 'Drewby!23'
 }
-ActionMailer::Base.default :from => 'adoptahydrantprovidence@gmail.com'
+ActionMailer::Base.default :from => 'PGaynor@ProvidenceRI.com'
